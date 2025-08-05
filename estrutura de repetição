@@ -1,0 +1,16 @@
+# for i in range(1,11):
+    #  print(f"número{i}")
+
+# numero=1
+# while numero<=10:
+#  print (numero)
+#  numero+=1
+# print("fim do programa")
+
+# nomeusuario=(input("qual o seu nome: "))
+# for nome in range(5):
+    # print (nomeusuario)
+
+# for i in range(0,21,2):
+    #  print(f"número{i}")
+
