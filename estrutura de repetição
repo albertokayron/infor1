@@ -14,3 +14,13 @@
 # for i in range(0,21,2):
     #  print(f"número{i}")
 
+# senha=1234
+# senhadgt=int(input("me fale sua senha: "))
+# while senhadgt!=senha:
+    # print("incorreto")
+    # int(input("tente novamente: "))
+# print("acesso liberado")
+
+número=(input("digite um número: "))
+for num in range(5):
+ print(número)
