@@ -20,7 +20,17 @@
     # print("incorreto")
     # int(input("tente novamente: "))
 # print("acesso liberado")
+    #  
+# print(soma) 
 
-número=(input("digite um número: "))
-for num in range(5):
- print(número)
+# for i in range(1,11):
+#     if i % 2 != 0: 
+#         continue
+#     print(i)
+
+# soma=0
+# n=int(input("diigite um numero: "))
+# while n != 0:
+#     n=int(input("digite novamente: "))
+#     soma += 1
+# print(f"foram digitados {soma} número antes do 0")
