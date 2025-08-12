@@ -34,3 +34,29 @@
 #     n=int(input("digite novamente: "))
 #     soma += 1
 # print(f"foram digitados {soma} número antes do 0")
+
+# for i in range(1,4):
+#     nota=int(input("Digite a nota: "))
+#     if nota >= 7:
+#         print("Aprovado")
+#     else:
+#         print("Reprovado")
+
+# soma=0
+# palavra = (input("Fale uma palavra: "))
+# vogais = ['a' , 'e' , 'i' , 'o' , 'u']
+# for i in palavra:
+#     if i in vogais:
+#         soma += 1 
+# print(soma)
+    
+# numeroint= int(input("Me fale um numero inteiro: "))
+# if numeroint % 2 == 0:
+#     print("Esse número é par")
+# else:
+#     print("Esse numero é impar")
+
+# for i in range(5):
+#     numdgt=input("Digite um número: ")
+# if numdgt >= 5 
+
